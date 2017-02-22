@@ -5,3 +5,5 @@ Telegram bot that /shrugs
 => ¯\_(ツ)_/¯
 
 Also find him on [Telegram](http://telegram.me/the_shrug_bot)
+
+![](demo.png)
